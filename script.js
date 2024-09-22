@@ -3,7 +3,7 @@ const quizData = [
     question:"How Old Is Cristiano Ronaldo ?",
         a:"10",
         b:"30",
-        c:"38",
+        c:"39",
         d:"120",
         correct:"c"
 
